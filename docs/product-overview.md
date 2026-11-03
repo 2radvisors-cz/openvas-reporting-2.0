@@ -2,7 +2,7 @@
 
 ## From scan output to accountable remediation
 
-Modern OpenVAS Reporting 2.0 provides the process layer that organisations need after vulnerability scanning. It correlates OpenVAS findings, enriches them with current threat information and guides them through assessment, decision, remediation, verification and closure.
+OpenVAS Reporting 2.0 provides the process layer that organisations need after vulnerability scanning. It correlates OpenVAS findings, enriches them with current threat information and guides them through assessment, decision, remediation, verification and closure.
 
 ## Typical users
 
