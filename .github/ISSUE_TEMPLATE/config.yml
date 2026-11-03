@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product and licensing enquiries
+    url: https://www.2radvisors.cz/kontakt/
+    about: Contact 2R Advisors for a demonstration, commercial terms or deployment discussion.
+  - name: Security reports
+    url: mailto:info@2radvisors.cz
+    about: Report suspected security issues privately. Do not publish vulnerabilities in GitHub issues.
