@@ -1,6 +1,6 @@
 # Support and Commercial Enquiries
 
-Modern OpenVAS Reporting 2.0 is supplied under a commercial agreement. Support scope and service levels depend on the customer's licence and services agreement.
+OpenVAS Reporting 2.0 is supplied under a commercial agreement. Support scope and service levels depend on the customer's licence and services agreement.
 
 For a product demonstration, deployment discussion, licensing information or support enquiry:
 
