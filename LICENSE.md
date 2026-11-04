@@ -12,4 +12,4 @@ Use of OpenVAS Reporting 2.0 requires a separate written commercial licence or s
 
 You may link to this public repository and quote brief portions of its descriptive text for legitimate commentary or evaluation, provided that attribution to 2R Advisors s.r.o. is retained and the material is not presented as your own product or service.
 
-For licensing enquiries, contact [info@2radvisors.cz](mailto:info@2radvisors.cz) or visit [https://www.2radvisors.cz/kontakt/](https://www.2radvisors.cz/kontakt/).
+For licensing enquiries, contact [info@2radvisors.cz](mailto:info@2radvisors.cz) or visit [https://www.2radvisors.cz/en/contact/](https://www.2radvisors.cz/en/contact/).

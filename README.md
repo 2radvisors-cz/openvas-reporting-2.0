@@ -8,6 +8,17 @@ OpenVAS Reporting 2.0 is a commercial vulnerability reporting, prioritisation an
 
 ![OpenVAS Reporting 2.0 management dashboard](assets/management-dashboard.jpg)
 
+## Product at a glance
+
+| Area | Capability |
+| --- | --- |
+| Vulnerability data | Automated import and correlation of completed OpenVAS reports |
+| Prioritisation | CVSS, EPSS, CISA KEV, exploit intelligence and deployment context |
+| Remediation | Ownership, teams, approvals, corrective tasks, verification and closure |
+| Risk governance | Controlled risk acceptance, expiry dates, compensating controls and evidence |
+| Reporting | Operational dashboards, management reports and audit history |
+| Deployment | Customer-controlled infrastructure with Czech and English user interfaces |
+
 ## Why it exists
 
 A vulnerability scan identifies technical findings. Organisations still need to decide:
@@ -73,15 +84,17 @@ See [LICENSE.md](LICENSE.md) for the repository terms. Commercial terms and pric
 
 ## Product information and contact
 
-- Product page: [2radvisors.cz/openvas-reporting](https://www.2radvisors.cz/openvas-reporting/)
-- Company: [2R Advisors](https://www.2radvisors.cz/)
-- Contact: [2radvisors.cz/kontakt](https://www.2radvisors.cz/kontakt/)
+- Product page (English): [OpenVAS Reporting 2.0](https://www.2radvisors.cz/en/openvas-reporting-2/)
+- Product page (Czech): [OpenVAS Reporting 2.0](https://www.2radvisors.cz/openvas-reporting/)
+- Company: [2R Advisors](https://www.2radvisors.cz/en/)
+- Contact: [Contact 2R Advisors](https://www.2radvisors.cz/en/contact/)
 - Email: [info@2radvisors.cz](mailto:info@2radvisors.cz)
 - LinkedIn: [2R Advisors](https://www.linkedin.com/company/2r-advisors-sro/)
 
 ## Documentation in this repository
 
 - [Product overview](docs/product-overview.md)
+- [Frequently asked questions](docs/faq.md)
 - [Commercial licence notice](LICENSE.md)
 - [Support information](SUPPORT.md)
 - [Security contact](SECURITY.md)
@@ -89,4 +102,4 @@ See [LICENSE.md](LICENSE.md) for the repository terms. Commercial terms and pric
 
 ## Trademark notice
 
-OPENVAS is a trademark of Greenbone AG. Modern OpenVAS Reporting 2.0 is an independent product of 2R Advisors s.r.o. It is not an official Greenbone product and is not affiliated with, sponsored by or endorsed by Greenbone AG. See [TRADEMARKS.md](TRADEMARKS.md).
+OPENVAS is a trademark of Greenbone AG. OpenVAS Reporting 2.0 is an independent product of 2R Advisors s.r.o. It is not an official Greenbone product and is not affiliated with, sponsored by or endorsed by Greenbone AG. See [TRADEMARKS.md](TRADEMARKS.md).
